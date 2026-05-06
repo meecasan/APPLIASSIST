@@ -1,6 +1,6 @@
 # APPLIASSIST: Appliance Repair Service Management System
 
-## Project Title & Description
+## Project Description
 Appliassist is a web-based system that solves problems in appliance repair services such as manual booking, miscommunication, and lack of service tracking.  
 
 It allows customers to easily request repair services, track service status, and communicate with technicians.  
@@ -18,29 +18,29 @@ The system provides a centralized and organized way of handling appliance repair
 ---
 
 ## Installation Guide
-
+```
 ### 1. Clone the repository
-
 ```bash
-git clone https://github.com/meecasan/APPLIASSIST.git
-
+git clone https://github.com/meecasan/APPLIASSIST.git 
+```
 ### 2. Enter Project Folder
-
+```bash
 cd APPLIASSIST
-
+```
 ### 3. Install Dependencies
-
+```bash
 npm install
-
+```
 ### 4. Run the Application
-
+```bash
 npm start
-
+```
 ### 5. Open in Browser
-
+```bash
 http://localhost:3000
+```
 
-
+---
 
 ## Contributors
 ### Development Team
@@ -58,3 +58,8 @@ http://localhost:3000
 - **Cassandra Velasco**  
     Role: Developer 
     Module: Registration 
+
+
+
+
+
