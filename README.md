@@ -18,7 +18,8 @@ The system provides a centralized and organized way of handling appliance repair
 ---
 
 ## Installation Guide
-
+---
+```
 
 ```
 ### 1. Clone the repository
@@ -48,18 +49,18 @@ http://localhost:3000
 ### Development Team
 
 - **Althea A. Boletic** 
-    Role: Developer
-    Module: Store Management
+    - Role: Developer
+    - Module: Store Management
 
 
 - **Mica Sandrea Danielle L. Pado**  
-    Role: Developer 
-    Module: Service Management 
+    - Role: Developer 
+    - Module: Service Management 
 
 
 - **Cassandra Velasco**  
-    Role: Developer 
-    Module: Registration 
+    - Role: Developer 
+    - Module: Registration 
 
 
 
