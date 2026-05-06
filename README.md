@@ -26,19 +26,18 @@ git clone https://github.com/meecasan/APPLIASSIST.git
 
 ### 2. Enter Project Folder
 
-```bash
 cd APPLIASSIST
 
 ### 3. Install Dependencies
-```bash
+
 npm install
 
 ### 4. Run the Application
-```bash
+
 npm start
 
 ### 5. Open in Browser
-```bash
+
 http://localhost:3000
 
 
