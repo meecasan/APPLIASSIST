@@ -18,7 +18,7 @@ The system provides a centralized and organized way of handling appliance repair
 ---
 
 ## Installation Guide
-```
+
 
 ```
 ### 1. Clone the repository
