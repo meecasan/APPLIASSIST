@@ -56,7 +56,7 @@ http://localhost:3000
     - Module: Service Management 
 
 
-- **Cassandra Velasco**  
+- **Casandra Jade P. Velasco**  
     - Role: Developer 
     - Module: Registration 
 
