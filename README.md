@@ -1,8 +1,5 @@
 
   # APPLIASSIST
-
-  This is a code bundle for APPLIASSIST. The original project is available at https://www.figma.com/design/PW8hPQLkKDjfAXlj52QZn9/APPLIASSIST.
-
   ## Running the code
 
   Run `npm i` to install the dependencies.
