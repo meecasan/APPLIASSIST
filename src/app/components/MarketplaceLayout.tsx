@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Facebook, Twitter, Instagram, Mail, Phone, MapPin, X, ChevronDown } from 'lucide-react';
+import { Facebook, Twitter, Instagram, Mail, Phone, MapPin, X, ChevronDown } from './icons';
 
 interface MarketplaceLayoutProps {
   children: React.ReactNode;
